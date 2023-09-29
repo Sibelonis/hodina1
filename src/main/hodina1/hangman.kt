@@ -63,7 +63,7 @@ val hangman = listOf("""
     | 
     | 
     |
-    ------
+    -------
 """.trimIndent(), """
     
     | 
